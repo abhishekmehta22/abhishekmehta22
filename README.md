@@ -2,7 +2,7 @@
 - 👀 I’m interested in django, html, css, java, python
 - 🌱 I’m currently learning django
 - 💞️ I’m looking to collaborate on 
-- 📫 Reach me on gmail abhishek.mehta2k@gmail.com
+- 📫 Reach me on gmail abhishek.mo.er.m@gamil.com
 
 <!---
 abhishekmehta22/abhishekmehta22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
